@@ -394,4 +394,5 @@ export default function CouponsPage() {
       </AnimatePresence>
     </div>
   )
-}
+} 
+ 
